@@ -1,0 +1,1 @@
+gcc -g -o pow pow.c -lssl -lcrypto
